@@ -19,6 +19,9 @@ function App() {
         </a>
       </header>
 	  <h2>netoooo</h2>
+	  <div>
+	  <h2>patka123</h2>
+	  </div>
     </div>
   );
 }
