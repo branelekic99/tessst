@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+	  <h2>netoooo</h2>
 	  <div>
 	  <h2>patka123</h2>
 	  </div>
